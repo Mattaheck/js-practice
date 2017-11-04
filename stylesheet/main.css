@@ -1,0 +1,14 @@
+html {
+  display: block;
+}
+
+head {
+  display: none;
+}
+
+body {
+  background-color: #fff;
+  background-size: cover;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
